@@ -1,15 +1,7 @@
-// Quote list
-const data = {
-  1: {
-    author: "Sam D",
-    saying: "Firebreak is where good ideas go to die",
-  },
-};
-
 const quoteContainer = document.getElementById("quote");
 
-const quotes = Object.keys(data).reduce(
-  (quoteArray, key) => [...quoteArray, data[key]],
+const quotes = Object.keys(sayings).reduce(
+  (quoteArray, key) => [...quoteArray, sayings[key]],
   []
 );
 
