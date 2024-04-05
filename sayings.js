@@ -7,4 +7,13 @@ const sayings = [
         "author": "Marcel K",
         "saying": "Ohh, I'm not sure I agree"
     },
+    {
+        "author": "Sam D",
+        "saying": "Nothing good comes from the WAF"
+    },
+    
+    {
+        "author": "Marcel K",
+        "saying": "You're my WAF now"
+    },
 ]
