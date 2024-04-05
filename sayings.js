@@ -11,7 +11,6 @@ const sayings = [
         "author": "Sam D",
         "saying": "Nothing good comes from the WAF"
     },
-    
     {
         "author": "Marcel K",
         "saying": "You're my WAF now"
