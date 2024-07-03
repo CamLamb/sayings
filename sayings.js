@@ -15,4 +15,8 @@ const sayings = [
         "author": "Marcel K",
         "saying": "You're my WAF now"
     },
+    {
+        "author": "Simon R",
+        "saying": "Sam you're pulsating, but I can't hear you"
+    },
 ]
